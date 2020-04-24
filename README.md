@@ -8,7 +8,7 @@ If you have an Idea of an Item or Block for BetterVanilla please write a comment
 
 To Do:
 
---Emerald Tools, Armor, shards and xtra ShardOres
+--Emerald shards and xtra ShardOres
 
 --Obsidian Tools, Armor
 
@@ -21,3 +21,5 @@ To Do:
 Finished:
 
 --Black Diamond Armor, Tools, Block and the "Black Diamond" it self (every Item has a Recipes)
+
+--Emerald Tools, Armor and Creative Tab custom gui

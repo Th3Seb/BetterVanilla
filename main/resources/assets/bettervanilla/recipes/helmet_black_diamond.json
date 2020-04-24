@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "BBB",
+      "B B"
+
+  ],
+  "key": {
+      "B": {
+          "item": "bettervanilla:black_diamond"
+      }
+  },
+  "result": {
+    "item": "bettervanilla:helmet_black_diamond"
+  }
+}

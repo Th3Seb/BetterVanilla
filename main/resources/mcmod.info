@@ -1,0 +1,14 @@
+[
+	{
+		"modid": "bettervanilla",
+		"name": "Better Vanilla",
+		"description": "This Mod makes your Vanilla Minecraft a little bit better (or your Modpack)",
+		"version": "0.0.1",
+		"mcversion": "1.12.2",
+		"authors": ["Th3Seb"],
+		"credits": "Matthias",
+		"logoFile": "",
+		"screenshots": [],
+		"dependencies": []
+	}
+]

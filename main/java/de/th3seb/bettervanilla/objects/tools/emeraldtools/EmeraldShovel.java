@@ -1,14 +1,13 @@
-package de.th3seb.bettervanilla.objects.tools;
+package de.th3seb.bettervanilla.objects.tools.emeraldtools;
 
 import de.th3seb.bettervanilla.BetterVanilla;
 import de.th3seb.bettervanilla.init.ItemInit;
 import de.th3seb.bettervanilla.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemPickaxe;
+import net.minecraft.item.ItemSpade;
 
-public class ToolPickaxe extends ItemPickaxe implements IHasModel {
-
-    public ToolPickaxe(String name, ToolMaterial material) {
+public class EmeraldShovel extends ItemSpade implements IHasModel {
+    public EmeraldShovel(String name, ToolMaterial material) {
         super(material);
 
         setUnlocalizedName(name);

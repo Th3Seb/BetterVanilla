@@ -10,7 +10,19 @@ item.axe_black_diamond.name=Black Diamond Axe
 item.shovel_black_diamond.name=Black Diamond Shovel
 item.hoe_black_diamond.name=Black Diamond Hoe
 
+item.sword_emerald.name=Emerald Sword
+item.pickaxe_emerald.name=Emerald Pickaxe
+item.axe_emerald.name=Emerald Axe
+item.shovel_emerald.name=Emerald Shovel
+item.hoe_emerald.name=Emerald Hoe
+
 item.helmet_black_diamond.name=Black Diamond Helmet
 item.chestplate_black_diamond.name=Black Diamond Chestplate
 item.leggings_black_diamond.name=Black Diamond Leggings
 item.boots_black_diamond.name=Black Diamond Boots
+
+item.helmet_emerald.name=Emerald Helmet
+item.chestplate_emerald.name=Emerald Chestplate
+item.leggings_emerald.name=Emerald Leggings
+item.boots_emerald.name=Emerald Boots
+

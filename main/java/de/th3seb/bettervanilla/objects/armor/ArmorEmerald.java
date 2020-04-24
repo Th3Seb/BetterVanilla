@@ -1,19 +1,19 @@
-package de.th3seb.bettervanilla.objects.tools;
+package de.th3seb.bettervanilla.objects.armor;
 
 import de.th3seb.bettervanilla.BetterVanilla;
 import de.th3seb.bettervanilla.init.ItemInit;
 import de.th3seb.bettervanilla.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemPickaxe;
+import net.minecraft.inventory.EntityEquipmentSlot;
+import net.minecraft.item.ItemArmor;
 
-public class ToolPickaxe extends ItemPickaxe implements IHasModel {
-
-    public ToolPickaxe(String name, ToolMaterial material) {
-        super(material);
+public class ArmorEmerald extends ItemArmor implements IHasModel {
+    public ArmorEmerald(String name, ArmorMaterial materialIn, int renderIndexIn, EntityEquipmentSlot equipmentSlotIn) {
+        super(materialIn, renderIndexIn, equipmentSlotIn);
 
         setUnlocalizedName(name);
         setRegistryName(name);
-        setCreativeTab(CreativeTabs.TOOLS);
+        setCreativeTab(CreativeTabs.COMBAT);
         setCreativeTab(BetterVanilla.bettervanillatab);
 
         ItemInit.ITEMS.add(this);
@@ -23,4 +23,5 @@ public class ToolPickaxe extends ItemPickaxe implements IHasModel {
     public void registerModels() {
         BetterVanilla.proxy.registerItemRenderer(this, 0, "inventory");
     }
+
 }

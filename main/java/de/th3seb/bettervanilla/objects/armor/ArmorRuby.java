@@ -7,8 +7,8 @@ import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.inventory.EntityEquipmentSlot;
 import net.minecraft.item.ItemArmor;
 
-public class ArmorEmerald extends ItemArmor implements IHasModel {
-    public ArmorEmerald(String name, ArmorMaterial materialIn, int renderIndexIn, EntityEquipmentSlot equipmentSlotIn) {
+public class ArmorRuby extends ItemArmor implements IHasModel {
+    public ArmorRuby(String name, ArmorMaterial materialIn, int renderIndexIn, EntityEquipmentSlot equipmentSlotIn) {
         super(materialIn, renderIndexIn, equipmentSlotIn);
 
         setUnlocalizedName(name);
@@ -22,5 +22,4 @@ public class ArmorEmerald extends ItemArmor implements IHasModel {
     public void registerModels() {
         BetterVanilla.proxy.registerItemRenderer(this, 0, "inventory");
     }
-
 }

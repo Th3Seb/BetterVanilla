@@ -1,14 +1,13 @@
-package de.th3seb.bettervanilla.objects.tools;
+package de.th3seb.bettervanilla.objects.tools.rubytools;
 
 import de.th3seb.bettervanilla.BetterVanilla;
 import de.th3seb.bettervanilla.init.ItemInit;
 import de.th3seb.bettervanilla.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
-import net.minecraft.item.ItemHoe;
+import net.minecraft.item.ItemPickaxe;
 
-public class ToolHoe extends ItemHoe implements IHasModel {
-
-    public ToolHoe(String name, ToolMaterial material) {
+public class RubyPickaxe extends ItemPickaxe implements IHasModel {
+    public RubyPickaxe(String name, ToolMaterial material) {
         super(material);
 
         setUnlocalizedName(name);

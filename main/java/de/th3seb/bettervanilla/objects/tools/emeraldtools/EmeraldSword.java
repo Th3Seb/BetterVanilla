@@ -14,7 +14,7 @@ public class EmeraldSword extends ItemSword implements IHasModel {
         setUnlocalizedName(name);
         setRegistryName(name);
         setCreativeTab(CreativeTabs.COMBAT);
-        setCreativeTab(BetterVanilla.bettervanillatab);
+        setCreativeTab(BetterVanilla.bettervanillaweaponandtoolstab);
 
         ItemInit.ITEMS.add(this);
 

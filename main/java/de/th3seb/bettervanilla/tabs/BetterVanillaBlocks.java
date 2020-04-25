@@ -17,4 +17,3 @@ public class BetterVanillaBlocks extends CreativeTabs {
         return new ItemStack(BlockInit.RUBY_ORE);
     }
 }
-

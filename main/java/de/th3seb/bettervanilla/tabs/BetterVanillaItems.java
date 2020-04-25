@@ -16,4 +16,3 @@ public class BetterVanillaItems extends CreativeTabs {
         return new ItemStack(ItemInit.RUBY);
     }
 }
-

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "bettervanilla:items/hoe_emerald"
+    }
+}

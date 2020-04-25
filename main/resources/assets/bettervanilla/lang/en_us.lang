@@ -1,0 +1,53 @@
+itemGroup.bettervanillaweaponandtoolstab=Better Vanilla | Weapons & Tools
+itemGroup.bettervanillaarmortab=Better Vanilla | Armor
+itemGroup.bettervanillaitemstab=Better Vanilla | Items
+itemGroup.bettervanillablockstab=Better Vanilla | Blocks
+
+
+item.black_diamond.name=Black Diamond
+item.ruby.name=Ruby
+
+
+tile.block_black_diamond.name=Block of Black Diamond
+
+
+tile.ore_ruby.name=Ruby Ore
+
+tile.ore_nether_ruby.name=Nether Ruby Ore
+
+tile.ore_end_ruby.name=Ender Ruby Ore
+
+item.sword_black_diamond.name=Black Diamond Sword
+item.pickaxe_black_diamond.name=Black Diamond Pickaxe
+item.axe_black_diamond.name=Black Diamond Axe
+item.shovel_black_diamond.name=Black Diamond Shovel
+item.hoe_black_diamond.name=Black Diamond Hoe
+
+item.sword_emerald.name=Emerald Sword
+item.pickaxe_emerald.name=Emerald Pickaxe
+item.axe_emerald.name=Emerald Axe
+item.shovel_emerald.name=Emerald Shovel
+item.hoe_emerald.name=Emerald Hoe
+
+item.sword_ruby.name=Ruby Sword
+item.pickaxe_ruby.name=Ruby Pickaxe
+item.axe_ruby.name=Ruby Axe
+item.shovel_ruby.name=Ruby Shovel
+item.hoe_ruby.name=Ruby Hoe
+
+
+item.helmet_black_diamond.name=Black Diamond Helmet
+item.chestplate_black_diamond.name=Black Diamond Chestplate
+item.leggings_black_diamond.name=Black Diamond Leggings
+item.boots_black_diamond.name=Black Diamond Boots
+
+item.helmet_emerald.name=Emerald Helmet
+item.chestplate_emerald.name=Emerald Chestplate
+item.leggings_emerald.name=Emerald Leggings
+item.boots_emerald.name=Emerald Boots
+
+item.helmet_ruby.name=Ruby Helmet
+item.chestplate_ruby.name=Ruby Chestplate
+item.leggings_ruby.name=Ruby Leggings
+item.boots_ruby.name=Ruby Boots
+

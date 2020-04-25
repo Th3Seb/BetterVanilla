@@ -13,7 +13,7 @@ public class EmeraldPickaxe extends ItemPickaxe implements IHasModel {
         setUnlocalizedName(name);
         setRegistryName(name);
         setCreativeTab(CreativeTabs.TOOLS);
-        setCreativeTab(BetterVanilla.bettervanillatab);
+        setCreativeTab(BetterVanilla.bettervanillaweaponandtoolstab);
 
         ItemInit.ITEMS.add(this);
     }

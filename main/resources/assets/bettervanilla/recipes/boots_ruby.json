@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "B B",
+      "B B"
+
+  ],
+  "key": {
+      "B": {
+          "item": "bettervanilla:ruby"
+      }
+  },
+  "result": {
+    "item": "bettervanilla:boots_ruby"
+  }
+}

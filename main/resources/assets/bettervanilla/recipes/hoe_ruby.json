@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+      "BB ",
+      " S ",
+      " S "
+  ],
+  "key": {
+      "B": {
+          "item": "bettervanilla:ruby"
+      },
+      "S": {
+          "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "bettervanilla:hoe_ruby"
+  }
+}

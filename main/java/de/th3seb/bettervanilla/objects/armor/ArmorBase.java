@@ -14,8 +14,7 @@ public class ArmorBase extends ItemArmor implements IHasModel {
 
             setUnlocalizedName(name);
             setRegistryName(name);
-            setCreativeTab(CreativeTabs.COMBAT);
-            setCreativeTab(BetterVanilla.bettervanillatab);
+            setCreativeTab(BetterVanilla.bettervanillaarmortab);
 
             ItemInit.ITEMS.add(this);
 

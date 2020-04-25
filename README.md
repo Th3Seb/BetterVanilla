@@ -23,3 +23,5 @@ Finished:
 --Black Diamond Armor, Tools, Block and the "Black Diamond" it self (every Item has a Recipes)
 
 --Emerald Tools, Armor and Creative Tab custom gui
+
+--Ruby Tools, Armor and Ores

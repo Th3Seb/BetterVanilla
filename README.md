@@ -8,10 +8,6 @@ If you have an Idea of an Item or Block for BetterVanilla please write a comment
 
 To Do:
 
---Emerald shards and xtra ShardOres
-
---Obsidian Tools, Armor
-
 --Nether/End Ores
 
 --Xtra Blocks
@@ -25,3 +21,7 @@ Finished:
 --Emerald Tools, Armor and Creative Tab custom gui
 
 --Ruby Tools, Armor and Ores
+
+--Emerald shards and xtra ShardOres
+
+--Reinforced Obsidian, Copper Ingots and Copper Ores(Overworld, Nether, End) 

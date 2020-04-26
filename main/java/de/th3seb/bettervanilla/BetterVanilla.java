@@ -1,5 +1,6 @@
 package de.th3seb.bettervanilla;
 
+import de.th3seb.bettervanilla.init.Recipes;
 import de.th3seb.bettervanilla.proxy.CommonProxy;
 import de.th3seb.bettervanilla.tabs.BetterVanillaArmor;
 import de.th3seb.bettervanilla.tabs.BetterVanillaBlocks;
@@ -36,7 +37,7 @@ public class BetterVanilla {
     }
     @Mod.EventHandler
     public static void Init(FMLInitializationEvent event){
-
+        Recipes.init();
     }
     @Mod.EventHandler
     public static void PostInit(FMLPostInitializationEvent event){

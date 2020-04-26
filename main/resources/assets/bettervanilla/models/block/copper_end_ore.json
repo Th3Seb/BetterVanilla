@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "bettervanilla:blocks/copper_end_ore"
+    }
+}

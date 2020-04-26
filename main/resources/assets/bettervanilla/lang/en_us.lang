@@ -6,16 +6,23 @@ itemGroup.bettervanillablockstab=Better Vanilla | Blocks
 
 item.black_diamond.name=Black Diamond
 item.ruby.name=Ruby
+item.emerald_shard.name=Emerald Shard
+item.copper_ingot.name=Copper Ingot
 
 
 tile.block_black_diamond.name=Block of Black Diamond
-
+tile.reinforced_obsidian.name=Reinforced Obsidian
 
 tile.ore_ruby.name=Ruby Ore
+tile.emerald_shard_ore.name=Emerald Shard Ore
+tile.copper_ore.name=Copper Ore
 
 tile.ore_nether_ruby.name=Nether Ruby Ore
+tile.copper_nether_ore.name=Nether Copper Ore
 
 tile.ore_end_ruby.name=Ender Ruby Ore
+tile.copper_end_ore.name=Ender Copper Ore
+
 
 item.sword_black_diamond.name=Black Diamond Sword
 item.pickaxe_black_diamond.name=Black Diamond Pickaxe

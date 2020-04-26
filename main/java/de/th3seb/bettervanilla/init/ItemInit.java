@@ -32,6 +32,8 @@ public class ItemInit {
     //Items
     public static final Item BLACK_DIAMOND = new ItemBase("black_diamond");
     public static final Item RUBY = new ItemBase("ruby");
+    public static final Item EMERALD_SHARD = new ItemBase("emerald_shard");
+    public static final Item COPPER_INGOT = new ItemBase("copper_ingot");
 
     //Tools-----------------------------------------------------------------------------------------------------------
 

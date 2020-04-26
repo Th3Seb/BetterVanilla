@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "bettervanilla:blocks/emerald_shard_ore"
+    }
+}

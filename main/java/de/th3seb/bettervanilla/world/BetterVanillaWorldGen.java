@@ -20,13 +20,16 @@ public class BetterVanillaWorldGen implements IWorldGenerator {
         switch (world.provider.getDimension()){
             case -1:
                 generateNetherOre(BlockInit.RUBY_NETHER_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 250, random.nextInt(8) + 1, 25);
+                generateNetherOre(BlockInit.COPPER_NETHER_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 250, random.nextInt(5) + 1, 20);
                 break;
             case 0:
                 generateOre(BlockInit.RUBY_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 30, random.nextInt(5) + 1, 15);
-
+                generateOre(BlockInit.EMERALD_SHARD_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 50, random.nextInt(5) + 1, 25);
+                generateOre(BlockInit.COPPER_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 100, random.nextInt(7) + 1, 35);
                 break;
             case 1:
                 generateEndOre(BlockInit.RUBY_END_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 250, random.nextInt(11 - 3) + 3, 30);
+                generateEndOre(BlockInit.COPPER_END_ORE.getDefaultState(), world, random, chunkX * 16, chunkZ * 16, 0, 250, random.nextInt(10 - 2) + 2, 40);
                 break;
         }
     }

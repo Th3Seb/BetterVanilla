@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "bettervanilla:copper_end_ore" }
+    }
+}
